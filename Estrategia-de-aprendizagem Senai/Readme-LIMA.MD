@@ -1,0 +1,1 @@
+Escolhi a cor azul e branca pois a cor azul remete foco e calma, e a cor branca é uma cor limpa para mostrar ainda mais o foco no azul e nos itens do site
