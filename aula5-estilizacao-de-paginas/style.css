@@ -1,0 +1,75 @@
+#titulo-principal {
+    color: red;
+    text-align: center;
+}
+
+.destaque {
+    /*seletor por classe*/
+    color: blue;
+    font-weight: bold;
+}
+
+p {
+    /*seletor por tag*/
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+* {
+    /*seletor universal*/
+    margin: 1;
+    padding: 1;
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Arial, sans-serif;
+    color: darkgreen;
+}
+
+h4 {
+    text-align: center;
+}
+
+.imagem {
+    width: 200px;
+    height: auto;
+    border: 2px solid black;
+    display: block;
+    margin: auto;
+}
+
+/*
+ul {
+    list-style-type: square;
+}
+*/
+table,
+tr,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-spacing: 5px;
+}
+
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(221, 0, 255);
+}
+
+a:hover {
+    color: rgb(204, 255, 0);
+}
+
+a:active {
+    color: orange;
+}
